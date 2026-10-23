@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.book-cache/
+.reading-synthesis/
+电子书库/
+*.epub
+*.azw3
+*.pdf
+*.sqlite
+*.sqlite3

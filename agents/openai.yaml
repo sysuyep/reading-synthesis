@@ -1,0 +1,4 @@
+interface:
+  display_name: "深度阅读整理"
+  short_description: "接入微信读书与电子书，完成版本对齐、读厚读薄和 Obsidian 整理"
+  default_prompt: "使用 $reading-synthesis 整理我正在读的书，先回顾章节和划线，再共同选择延展研究方向。"
